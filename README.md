@@ -1,2 +1,2 @@
-# Word2Vec-SkipGram
+# NLP
 Word2Vec-SkipGram
